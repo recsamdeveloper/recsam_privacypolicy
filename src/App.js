@@ -64,7 +64,7 @@ function App() {
             condiciones. Si no está de acuerdo con alguna disposición de estos
             términos, debe abstenerse de usar la Aplicación. Estos términos
             constituyen un contrato legal entre el usuario y los desarrolladores
-            de ReCSaM. Referencia: Código de Comercio, artículo 89 (2024), que
+            de ReCSaM.Referencia: Código de Comercio, artículo 89 (2024), que
             establece la validez de los contratos digitales aceptados mediante
             "clic".
           </p>
@@ -240,7 +240,7 @@ function App() {
           <p className="content1-1">
             Para cualquier consulta, duda o notificación relacionada con estos
             términos, puede comunicarse al correo electrónico:
-            soporte@recsam.com.
+            recsam.contact@gmail.com.
           </p>
         </div>
       </div>
