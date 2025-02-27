@@ -616,6 +616,109 @@ function App() {
           </p>
         </div>
       </div>
+      <br />
+      <h1 className="Title">Proceso de eliminación de información</h1>
+      <div>
+        <h2>Eliminación de Consulta</h2>
+        <p>
+          1.- Dirigir al Expediente de la consulta que desea eliminar la
+          información
+        </p>
+        <p>
+          2.- Seleccionar la consulta y mover el botón hacia la derecha de forma
+          recta
+        </p>
+        <p>
+          3.- Empezará a salir una sección de color rojizo, continuar moviendo
+          el botón hasta que aparezca una imágen de un bote de basura
+        </p>
+        <p>4.- Soltar el botón.</p>
+        <p>
+          5.- Deberá aparecer un mensaje explicando al usuario si desea eliminar
+          la consulta.
+        </p>
+        <p>
+          6.- De querer eliminarlo, el usuario acepta e incia el proceso para
+          eliminar la consulta de la base de datos.
+        </p>
+      </div>
+      <br />
+      <div>
+        <h2>Eliminación de Expediente</h2>
+        <p>
+          1.- Dirigir al la lista de expedientes y buscar el que desea eliminar
+          la información
+        </p>
+        <p>
+          2.- Seleccionar el expediente y mover el botón hacia la derecha de
+          forma recta
+        </p>
+        <p>
+          3.- Empezará a salir una sección de color rojizo, continuar moviendo
+          el botón hasta que aparezca una imágen de un bote de basura
+        </p>
+        <p>4.- Soltar el botón.</p>
+        <p>
+          5.- Deberá aparecer un mensaje explicando al usuario si desea eliminar
+          el expdiente.
+        </p>
+        <p>
+          6.- De querer eliminarlo, el usuario acepta e incia el proceso para
+          eliminar el expediente de la base de datos.
+        </p>
+      </div>
+      <br />
+      <div>
+        <h2>Eliminación de Paciente</h2>
+        <p>
+          1.- Dirigir al la lista de pacientes y buscar el que desea eliminar la
+          información
+        </p>
+        <p>
+          2.- Seleccionar el paciente y mover el botón hacia la derecha de forma
+          recta
+        </p>
+        <p>
+          3.- Empezará a salir una sección de color rojizo, continuar moviendo
+          el botón hasta que aparezca una imágen de un bote de basura
+        </p>
+        <p>4.- Soltar el botón.</p>
+        <p>
+          5.- Deberá aparecer un mensaje explicando al usuario si desea eliminar
+          la información del paciente.
+        </p>
+        <p>
+          6.- De querer eliminarlo, el usuario acepta e incia el proceso para
+          eliminar la información del paciente de la base de datos.
+        </p>
+      </div>
+      <br />
+      <div>
+        <h2>Eliminar cuenta</h2>
+        <p>
+          1.- El usuario debe estar en la pantalla principal y precionar el
+          botón superior izquierdo que abre el menú lateral.
+        </p>
+        <p>
+          2.- En el menú laterial, el usuario deberá elegir la opción de "Mi
+          Cuenta"
+        </p>
+        <p>
+          3.- En la pantalla de "Mi Cuenta" deberá precionar el botón de
+          "Eliminar cuenta"
+        </p>
+        <p>
+          4.- Deberá aparecer un mensaje explicando al usuario si desea eliminar
+          su cuenta.
+        </p>
+        <p>
+          5.- Despúes de confirmar iniciará el proceso de eliminicación, donde
+          se eliminarían todos los datos pertinentes del usuario de la base de
+          datos, junto con todo lo que haya subido o cambiado en la base de
+          datos.
+        </p>
+        <p>6.- La aplicación regresa a la pantalla de inicio de sesión.</p>
+      </div>
     </div>
   );
 }
